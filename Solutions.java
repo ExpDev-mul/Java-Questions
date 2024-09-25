@@ -5,7 +5,7 @@
  * @version (06/10/2024)
  */
 
-public class Solutions
+public class Ex13
 {
     /*
      * Time Complexity: O(log n)
